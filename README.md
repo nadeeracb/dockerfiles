@@ -1,4 +1,13 @@
 # WSO2 Dockerfiles
+
+---
+
+## Note
+
+We have moved WSO2 Dockerfiles to separate product specific repositories and as a result this repository has been deprecated. WSO2 Base Dockerfile, bash scripts for provisioning, Docker build, push, run, stop and entrypoint have been moved to [docker-common](https://github.com/wso2/docker-common) repository. Please find the new list of repositories [here](https://github.com/wso2?utf8=%E2%9C%93&q=docker).
+
+---
+
 WSO2 Dockerfiles define the resources and instructions to build the Docker images with the WSO2 products and runtime configurations.
 
 ## Try it out
